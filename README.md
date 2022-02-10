@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**alander1234/alander1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+-Hello Everyone
 - 🔭 I’m currently working on CIS-18A
 - 🌱 I’m currently learning ...Java
 - 👯 I’m looking to collaborate on ...
